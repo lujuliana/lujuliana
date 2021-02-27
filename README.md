@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Juliana Lu, a Computer Science and Cognitive Science student at the University of Pennsylvania! I'm part of the class of 2024, and my interests include exploring museums, painting, and going on hikes with my dog.
 
 <!--
 **lujuliana/lujuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
